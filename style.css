@@ -7,9 +7,9 @@
     padding: 0px;
 }
 html, body {
-    height: 100vh;
-    margin: 0;
-    padding: 0;
+    height: 100px;
+    margin: 20px;
+    padding: 30px;
 }
 
 body{
@@ -39,7 +39,7 @@ body{
 
 button:hover{
     background-color :#ecf;
-    transform: all .25s;
+    transform: all .1s;
 }
 input{
     grid-column: span 4;
