@@ -1,28 +1,32 @@
 ## Calculator Project
 This project is a simple calculator application that allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
-
 ## Features
-Basic arithmetic operations: Addition, Subtraction, Multiplication, Division.
-Responsive design: Works seamlessly on desktop and mobile devices.
-Intuitive user interface: Easy-to-use buttons and display.
-Error handling: Prevents invalid input and division by zero errors.
-Clean and organized code: Well-structured HTML, CSS, and JavaScript files.
+ 
+* Addition, subtraction, multiplication, and division.
+* Clear button to reset the calculator
+* Displays results of calculations in real-time
+
+## Technologies Used
+1. HTML for the structure.
+2. CSS for styling.
+3. JavaScript for the functionality.
+
+## Usage
+1. Enter numbers using the calculator's buttons.
+2. Select an operator (+, -, *, /).
+3. Press the = button to get the result.
+4. Press C to clear the current input.
+
+## Example
+2 + 3 * 4
+14
+## Notes
+
+* **Order of operations:** The calculator follows the standard order of operations (PEMDAS/BODMAS).
+* **Input validation:** Basic input validation is included to handle invalid expressions.
+* **Error handling:** The calculator provides informative error messages for invalid input.
 
 ## Contributing
-I welcome contributions and improvements to this project. If you'd like to contribute, please follow these steps:
-Fork this repository.
-Create a branch for your feature or bug fix: git checkout -b feature-name
-Make your changes and commit them: git commit -m 'Add feature-name'
-Push your changes to your forked repository: git push origin feature-name
-Create a pull request to merge your changes into the main branch.
-## Technologies Used
 
-HTML
-CSS
-JavaScript (for functionality)
-## Usage
+Contributions are welcome! Please submit a pull request with your changes and a clear description of the improvements.
 
-Enter numbers using the calculator's buttons.
-Select an operator (+, -, *, /).
-Press the = button to get the result.
-Press C to clear the current input.
