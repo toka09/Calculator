@@ -11,7 +11,6 @@ let flag=0;
                 output.value+= num;
             }    
         }
-
         function calculate(){
             try {
                 output.value = eval(output.value);
