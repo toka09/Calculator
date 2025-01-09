@@ -1,17 +1,11 @@
-
 *{
-    box-sizing:border-box;
-    background-color: #B1C29E;  
-    font-family:"Playwrite AU SA", serif;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #B1C29E;
+    font-family: "Roboto Slab", serif;
+    outline: none;
 }
-html, body {
-    height: 100px;
-    margin: 20px;
-    padding: 30px;
-}
-
 body{
     text-align: center;
     display: flex;
@@ -21,12 +15,11 @@ body{
     color:white;
 }
 
-.container {
+.container{
+    height: 100vh;
     display: flex;
     justify-content: center;
-    align-items: flex-start; 
-    margin: 0;
-    padding: 0;
+    align-items: center;
 }
 .calculator{
     background-color: #E1EACD;
